@@ -8,6 +8,7 @@
 
 For quick start guides on how to use the [web](http://mechgen.cert.ucr.edu/) version and Linux version of MechGen, please refer to the [wiki](https://github.com/SAPRC/MechGenv1/wiki) pages.
 
+See more details about the recent development of MechGen and SAPRC mechanisms on the [SAPRC](https://intra.engr.ucr.edu/~carter/SAPRC/) website.
 
 ## Overvew
 
