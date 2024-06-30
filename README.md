@@ -6,7 +6,7 @@
 
 **Affiliation:** College of Engineering Center for Environmental Research and Technology (CE-CERT), University of California, Riverside, California 92521
 
-See more details on the [MechGen](http://mechgen.cert.ucr.edu/) Website.
+For quick start guides on how to use the [web](http://mechgen.cert.ucr.edu/) version and Linux version of MechGen, please refer to the [wiki](https://github.com/SAPRC/MechGenv1/wiki) pages.
 
 
 ## Overvew
