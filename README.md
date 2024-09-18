@@ -10,8 +10,7 @@
 
 Carter, W. P. L., Jiang, J., Orlando, J. J., and Barsanti, K. C.: Derivation of Atmospheric Reaction Mechanisms for Volatile Organic Compounds by the SAPRC Mechanism Generation System (MechGen), EGUsphere [preprint], https://doi.org/10.5194/egusphere-2023-2343, 2023.
 
-**User Manual::** The complete user manual can be found on the [MechGen](http://mechgen.cert.ucr.edu/)  website. For quick start guides on how to use the [web](http://mechgen.cert.ucr.edu/) version and Linux version of MechGen, please refer to the [wiki](https://github.com/SAPRC/MechGenv1/wiki) pages.
-
+**User Manual::** The complete user manual (**MechGenMan.pdf**) is included in the repository, along with a quick start guide for the web version of MechGen (**StartGuide.pdf**). They are also available on the [MechGen](http://mechgen.cert.ucr.edu/) website. For more information on how to use MechGen, please visit our [wiki](https://github.com/SAPRC/MechGen/wiki) pages.
 
 For more details about the development of MechGen and SAPRC mechanisms, please visit the and [SAPRC](https://intra.engr.ucr.edu/~carter/SAPRC/) website.
 
