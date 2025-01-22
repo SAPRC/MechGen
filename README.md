@@ -13,7 +13,7 @@ MechGen is easy to access! No installation is required for the web version, whic
 
 ## Learn More
 
-- **About MechGen**: [Visit the MechGen website](http://mechgen.cert.ucr.edu/) for more details about what MechGen can do.
+- **About MechGen**: [Visit the MechGen website](https://intra.engr.ucr.edu/~carter/MechGen/) for more details about what MechGen can do.
 
 - **SAPRC Mechanisms**: MechGen was used to derive the latest SAPRC-22 chemical mechanism. Learn more about SAPRC mechanisms [here](https://intra.engr.ucr.edu/~carter/SAPRC/).
 
