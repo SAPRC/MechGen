@@ -18,9 +18,11 @@ MechGen is easy to access! No installation is required for the online version, w
 ## Repository Contents
 
 This repository includes the following folders and files:
+
 ```
 .
-├── README.md
+├── README.md               // This file
+├── LICENSE.md              // License information
 |
 ├── docs                    // Documentation
 │   ├── MechGenMan.pdf      // Complete user manual
