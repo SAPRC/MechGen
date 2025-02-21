@@ -18,6 +18,7 @@ MechGen is easy to access! No installation is required for the online version, w
 ## Repository Contents
 
 This repository includes the following folders and files:
+```
 .
 ├── README.md
 |
@@ -32,6 +33,7 @@ This repository includes the following folders and files:
     ├── FUP.dll             // File upload plugin for WinMOO
     ├── MechGen.bat         // Batch file for running MechGen on Windows
     └── WinMOO.exe          // Windows MOO server
+```
 
 The main database file, `MechGen.db`, is required for running MechGen on your own computer (Windows, Unix, or Linux). It is not required for web users.
 
