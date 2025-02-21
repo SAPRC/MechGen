@@ -2,32 +2,39 @@
 
 The **SAPRC mechanism generation system** (**MechGen**) is a tool designed to derive explicit mechanisms for the gas-phase reactions of many types of emitted organic compounds and their oxidation products when they react in the atmosphere in the presence of oxides of nitrogen and other pollutants. It then uses the results to derive lumped mechanisms suitable for use in atmospheric models.
 
-## Access MechGen online
-MechGen is easy to access! No installation is required for the web version, which you can use directly from your browser. However, if you prefer Telnet access, you’ll need to install Telnet on your system:
-- **Web Access**:<br>[Click here to try MechGen online](http://149.165.173.164:8000/)
-
-- **Telnet Access**:<br>Open a terminal and connect to MechGen via Telnet:  
-  ```
-  telnet 149.165.173.164 8888
-  ```
-
 ## Learn More
 
-- **About MechGen**: [Visit the MechGen website](https://intra.engr.ucr.edu/~carter/MechGen/) for more details about what MechGen can do.
+- **About MechGen**: [Visit the MechGen website](https://mechgen.cert.ucr.edu/) for more details about what MechGen can do.
 
 - **SAPRC Mechanisms**: MechGen was used to derive the latest SAPRC-22 chemical mechanism. Learn more about SAPRC mechanisms [here](https://intra.engr.ucr.edu/~carter/SAPRC/).
 
+## Access MechGen online
+MechGen is easy to access! No installation is required for the online version, which you can use directly from your browser.
+
+- **Web Access**:<br>[Click here to try MechGen online](https://intra.engr.ucr.edu/~carter/SAPRC/)
+
+- **Telnet Access**:<br>Additional Telnet access is also available to this online version, please refer to the website and user manual for more information.
+
 ## Repository Contents
 
-This repository includes the following files:
+This repository includes the following folders and files:
+.
+├── README.md
+|
+├── docs                    // Documentation
+│   ├── MechGenMan.pdf      // Complete user manual
+│   └── StartGuide.pdf      // Quick-start guide for web users
+|
+├── src                     // Source code
+│   └── MechGen.db          // Main MechGen database for Windows, Unix, or Linux
+|
+└── win                     // Tools for Windows
+    ├── FUP.dll             // File upload plugin for WinMOO
+    ├── MechGen.bat         // Batch file for running MechGen on Windows
+    └── WinMOO.exe          // Windows MOO server
 
-- **MechGen.db**: The main database for MechGen. This file is needed if you want to install and run MechGen on your own computer. It is not required for web users.
-  
-- **MechGenGuide.pdf**: The complete user manual providing detailed instructions for using MechGen via both the web and Telnet interfaces.
-  
-- **StarGuide.pdf**: A quick-start guide for MechGen web users.
-  
-- **README.md**: This overview of the repository.
+The main database file, `MechGen.db`, is required for running MechGen on your own computer (Windows, Unix, or Linux). It is not required for web users.
+
 
 ## Getting Started
 
@@ -41,13 +48,7 @@ To help you get started, refer to the following documents:
 
   A guide for installing and running MechGen on Unix or Linux.
 
-* [Complete User Manual](https://github.com/SAPRC/MechGen/blob/master/MechGenMan.pdf)
-
-  Detailed instructions for all features and configurations. 
-
-* [MechGen Wiki](https://github.com/SAPRC/MechGen/wiki)
-
-  The wiki also provides additional resources. For example, publications related to MechGen are also listed there. More content will be added over time.
+* See additional resources in [MechGen Wiki Pages](https://github.com/SAPRC/MechGen/wiki). More content will be added over time.
 
 
 ## Citation
@@ -59,4 +60,4 @@ If you use MechGen in your research, please cite the following publication:
 
 ## Contact Information
 
-*For inquiries and further information, please contact the author, William P. L. Carter, at carter@cert.ucr.edu*
+*For inquiries and further information, please contact the primary author, William P. L. Carter, at carter@cert.ucr.edu*
