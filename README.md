@@ -44,9 +44,9 @@ The main database file, `MechGen.db`, is required for running MechGen on your ow
 
 To help you get started, refer to the following documents:
 
-* [Getting Started with MechGen Web Access](https://github.com/SAPRC/MechGen/wiki/Getting-started-with-web-access)
+* [Getting Started with MechGen Web Access](https://github.com/SAPRC/MechGen/blob/master/docs/StartGuide.pdf)
 
-  A quick guide to using the online version of MechGen via web interface. No installation needed. A PDF version of this guide is also available in this repository.
+  A quick guide to using the online version of MechGen via web interface. No installation needed.
 
 * [Installing and Running MechGen on Unix or Linux Systems](https://github.com/SAPRC/MechGen/wiki/Install-and-Run-MechGen-on-Unix-or-Linux-Systems)
 
@@ -60,6 +60,11 @@ To help you get started, refer to the following documents:
 If you use MechGen in your research, please cite the following publication:
 
 * Carter, W. P. L., Jiang, J., Orlando, J. J., and Barsanti, K. C.: Derivation of atmospheric reaction mechanisms for volatile organic compounds by the SAPRC mechanism generation system (MechGen), Atmos. Chem. Phys., 25, 199–242, https://doi.org/10.5194/acp-25-199-2025, 2025.
+
+
+## Publications
+
+For publication information, please visit the [Publications](https://github.com/SAPRC/MechGen/wiki/Publications) page.
 
 
 ## Contact Information
