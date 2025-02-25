@@ -31,7 +31,7 @@ This repository includes the following folders and files:
 ├── src                     // Source code
 │   └── MechGen.db                  // Main MechGen database for Windows, Unix, or Linux
 |
-├── utilities               // Support utilities
+├── utils                   // Support utilities
 │   ├── main_win_setup_single.py    // Python script to build single generation mechanism on Windows
 │   └── main_win_setup_multi.py     // Python script to build multi generation mechanism on Windows
 |
