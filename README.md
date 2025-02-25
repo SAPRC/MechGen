@@ -35,7 +35,7 @@ This repository includes the following folders and files:
 │   ├── main_win_setup_single.py    // Python script to build single generation mechanism on Windows
 │   └── main_win_setup_multi.py     // Python script to build multi generation mechanism on Windows
 |
-└── win                     // Tools for Windows
+└── win                     // Files needed for Windows
     ├── FUP.dll                     // File upload plugin for WinMOO
     ├── MechGen.bat                 // Batch file for running MechGen on Windows
     └── WinMOO.exe                  // Windows MOO server
