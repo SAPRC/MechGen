@@ -61,7 +61,9 @@ To help you get started, refer to the following documents:
 
 ## Citation
 
-If you use MechGen in your research, please cite the following publication:
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14907949.svg)](https://doi.org/10.5281/zenodo.14907948)
+
+If you use MechGen in your research, please consider citing the following publication:
 
 * Carter, W. P. L., Jiang, J., Orlando, J. J., and Barsanti, K. C.: Derivation of atmospheric reaction mechanisms for volatile organic compounds by the SAPRC mechanism generation system (MechGen), Atmos. Chem. Phys., 25, 199–242, https://doi.org/10.5194/acp-25-199-2025, 2025.
 
