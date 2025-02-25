@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Script for configuring MechGen and generating a multi-generation mechanism.
+Script for configuring MechGen-Windows and generating a multi-generation mechanism.
 Created by Jia Jiang, 2024/12/8
 """
 
