@@ -25,15 +25,15 @@ This repository includes the following folders and files:
 ├── LICENSE.md              // License information
 |
 ├── docs                    // Documentation
-│   ├── MechGenMan.pdf      // Complete user manual
-│   └── StartGuide.pdf      // Quick-start guide for web users
+│   ├── MechGenMan.pdf              // Complete user manual
+│   └── StartGuide.pdf              // Quick-start guide for web users
 |
 ├── src                     // Source code
-│   └── MechGen.db          // Main MechGen database for Windows, Unix, or Linux
+│   └── MechGen.db                  // Main MechGen database for Windows, Unix, or Linux
 |
 ├── utilities               // Support utilities
-│   └── main_mg_setup_single.py          // Python script to build single generation mechanism
-│   └── main_mg_setup_multi.py           // Python script to build multi generation mechanism
+│   └── main_mg_setup_single.py     // Python script to build single generation mechanism
+│   └── main_mg_setup_multi.py      // Python script to build multi generation mechanism
 |
 └── win                     // Tools for Windows
     ├── FUP.dll             // File upload plugin for WinMOO
