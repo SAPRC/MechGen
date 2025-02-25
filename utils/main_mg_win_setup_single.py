@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Script for configuring MechGen and generating a single-generation mechanism.
-Created by Jia Jiang, 2024/10/5
+Created by Jia Jiang, 2024/10/5, used for windows
 """
 
 import time
