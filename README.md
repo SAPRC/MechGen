@@ -36,9 +36,9 @@ This repository includes the following folders and files:
 │   └── main_win_setup_multi.py     // Python script to build multi generation mechanism on Windows
 |
 └── win                     // Tools for Windows
-    ├── FUP.dll                               // File upload plugin for WinMOO
-    ├── MechGen.bat                           // Batch file for running MechGen on Windows
-    └── WinMOO.exe                            // Windows MOO server
+  ├── FUP.dll                       // File upload plugin for WinMOO
+  ├── MechGen.bat                   // Batch file for running MechGen on Windows
+  └── WinMOO.exe                    // Windows MOO server
 ```
 
 The main database file, `MechGen.db`, is required for running MechGen on your own computer (Windows, Unix, or Linux). It is not required for web users.
