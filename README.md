@@ -32,7 +32,7 @@ This repository includes the following folders and files:
 │   └── MechGen.db                  // Main MechGen database for Windows, Unix, or Linux
 |
 ├── utilities               // Support utilities
-│   └── main_win_setup_single.py    // Python script to build single generation mechanism on Windows
+│   ├── main_win_setup_single.py    // Python script to build single generation mechanism on Windows
 │   └── main_win_setup_multi.py     // Python script to build multi generation mechanism on Windows
 |
 └── win                     // Tools for Windows
