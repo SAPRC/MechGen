@@ -37,7 +37,7 @@ If you download this software and documentation and find them potentially useful
 
 **UNZIP.EXE** is a freeware unzip program by Info-Zip (http://www.info-zip.org/) that can be used to extract the .ZIP files if the user does not already have such a program.
 
-**MINGF.ZIP** contains the minimum set of dynamic link library (.DLL) files needed so that the compiled programs in the distribution will run without GNU MinGW gfortran being installed. Note that these are not sufficient to compile new or modified mechanisms or change any of the programs, and they should be deleted if other compilers or new versions of gfortran are used. It is recommended that the user install GNU MinGW gfortran as described in ModelPgm.pdf rather than using these files. These files are dated 12/1/2011 and should not be used with programs compiled with different versions. **DO NOT INSTALL THESE FILES IF YOU HAVE, OR PLAN TO HAVE, MINGW AND GFORTRAN INSTALLED!**
+**MINGF.ZIP** contains the minimum set of dynamic link library (.DLL) files needed so that the compiled programs in the distribution will run without GNU MinGW gfortran being installed. Note that these are not sufficient to compile new or modified mechanisms or change any of the programs, and they should be deleted if other compilers or new versions of gfortran are used. It is recommended that the user install GNU MinGW gfortran as described in ModelPgm.pdf rather than using these files. These files are dated 12/1/2011 and should not be used with programs compiled with different versions. DO NOT INSTALL THESE FILES IF YOU HAVE, OR PLAN TO HAVE, MINGW AND GFORTRAN INSTALLED!
 
 
 # **Recent Update History**
