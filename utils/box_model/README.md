@@ -14,9 +14,8 @@ The current distribution implements the following version of the SAPRC mechanism
 
 If you download this software and documentation and find them potentially useful, and want to be on an email list about updates or corrections to the programs, files, or documentation, please contact me and I will add you to the list.
 
----
 
-## **File and Program Documentation**
+# **File and Program Documentation**
 
 **ModelPgm.pdf** contains draft documentation of the use of the SAPRC modeling software for basic model simulations. This gives details of the programs, their inputs and outputs, file formats, and examples of their use. The current version is a major update of the previous version that was dated 2017, and now includes a more complete discussion of the lumping program and now discusses the programs and files for calculation of reactivity scales. However, this document is still a draft that is not completely proofread and is subject to change. Please contact me if you see errors, undocumented behavior, or unclear or erroneous text. The current version is dated October 7, 2020.
 
@@ -40,9 +39,8 @@ If you download this software and documentation and find them potentially useful
 
 **MINGF.ZIP** contains the minimum set of dynamic link library (.DLL) files needed so that the compiled programs in the distribution will run without GNU MinGW gfortran being installed. Note that these are not sufficient to compile new or modified mechanisms or change any of the programs, and they should be deleted if other compilers or new versions of gfortran are used. It is recommended that the user install GNU MinGW gfortran as described in ModelPgm.pdf rather than using these files. These files are dated 12/1/2011 and should not be used with programs compiled with different versions. **DO NOT INSTALL THESE FILES IF YOU HAVE, OR PLAN TO HAVE, MINGW AND GFORTRAN INSTALLED!**
 
----
 
-## **Recent Update History**
+# **Recent Update History**
 
 **4/7/23, 5/15/23, 7/1/23, 7/8/23, 7/13/23, 9/9/23, 6/23/24**
 - Updated SAPRC-22 to the current version. Versions dated before September 9 should not be used. This version should be final, but we are still in the process of documenting the chemistry used to generate the mechanism, and it can't be ruled out that additional errors may be found during this process. Therefore, please check the SAPRC-22 page before using the mechanism or implementing it in any models in case the version you downloaded had to be updated.
