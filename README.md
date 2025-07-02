@@ -32,8 +32,10 @@ This repository includes the following folders and files:
 │   └── MechGen.db                  // Main MechGen database for Windows, Unix, or Linux
 |
 ├── utils                   // Support utilities
-│   ├── main_win_setup_single.py    // Python script to build single generation mechanism on Windows
-│   └── main_win_setup_multi.py     // Python script to build multi generation mechanism on Windows
+│   ├── win_setup_single.py    // Python script to build single generation mechanism on Windows
+│   ├── win_setup_multi.py     // Python script to build multi generation mechanism on Windows
+│   ├── box_model_saprc        // SAPRC box model files and documentation
+│   └── box_model_f0am         // Extensions and scripts that support running SAPRC/MechGen mechanisms in the F0AM box model.
 |
 └── win                     // Files needed for Windows
     ├── FUP.dll                     // File upload plugin for WinMOO

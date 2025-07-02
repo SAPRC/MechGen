@@ -8,3 +8,6 @@ If you have any issues setting up SAPRC chemistry in F0AM, please contact Dr. Sa
 
 
 # Scripts to convert MechGen outputs into F0AM-ready inputs
+The conversion of MechGen complex outputs into product files compatible with other modeling systems, such as F0AM, is currently under active collaboration in a separate project.
+
+Here, we provide the **mg_output_mech2f0am.py** script, which offers a preliminary example of converting a MechGen output isoprene mechanism into a F0AM-ready input file. While this script is not yet fully refined, it serves as a simple illustrative example.
