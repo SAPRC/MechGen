@@ -4,7 +4,7 @@ An extension of F0AM has been developed that allows it to run with the SAPRC mec
 
 Here is the link to the repository for this project: https://github.com/SamihaShahid/SAPRC_F0AM
 
-If you have any issues setting up SAPRC chemistry in F0AM, please contact Dr. Samiha Binte Shahid (sbint003@ucr.edu) or Dr. Jia Jiang (jiajiang@mit.edu).
+If you have any issues setting up SAPRC chemistry in F0AM, please contact Samiha Binte Shahid (sbint003@ucr.edu) or Jia Jiang (jiajiang@mit.edu).
 
 
 # Scripts to convert MechGen outputs into F0AM-ready inputs

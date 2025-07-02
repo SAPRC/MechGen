@@ -3,7 +3,7 @@ The SAPRC model simulation software system consists primarily of a series of int
 Fortran programs and files that were developed over almost a 40-year period for chemical mechanism
 development, evaluation, and box modeling applications research.
 
-The mechanism output derived from **MechGen** can be directly implemented into the SAPRC box model and run with the corresponding version of the SAPRC-based mechanism for a quick setup.  For detailed instructions, please refer to **ModelPgm.pdf**. If you have any questions about configuring the model, contact Dr. Bill Carter (carter@cert.ucr.edu) or Dr. Jia Jiang (jiajiang@mit.edu).
+The mechanism output derived from **MechGen** can be directly implemented into the SAPRC box model and run with the corresponding version of the SAPRC-based mechanism for a quick setup.  For detailed instructions, please refer to **ModelPgm.pdf**. If you have any questions about configuring the model, contact Bill Carter (carter@cert.ucr.edu) or Jia Jiang (jiajiang@mit.edu).
 
 
 # **Model File Distribution**
