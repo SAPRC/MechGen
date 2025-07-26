@@ -11,7 +11,7 @@ The **SAPRC mechanism generation system** (**MechGen**) is a tool designed to de
 ## Access MechGen online
 MechGen is easy to access! No installation is required for the online version, which you can use directly from your browser.
 
-- **Web Access**:<br>[Click here to try MechGen online](https://intra.engr.ucr.edu/~carter/SAPRC/)
+- **Web Access**:<br>[Click here to try MechGen online](http://mechgen.ees250027.projects.jetstream-cloud.org:8000/)
 
 - **Telnet Access**:<br>Additional Telnet access is also available to this online version, please refer to the website and user manual for more information.
 
@@ -39,6 +39,10 @@ This repository includes the following folders and files:
     ├── FUP.dll                     // File upload plugin for WinMOO
     ├── MechGen.bat                 // Batch file for running MechGen on Windows
     └── WinMOO.exe                  // Windows MOO server
+|
+└── unix                     // Unix/Linux–specific files
+    ├── LambdaMOO-1.8.1_wFUP.tar.gz  // LambdaMOO source code with FUP extension
+    └── install_moo.sh               // Script to build and configure LambdaMOO
 ```
 
 The main database file, `MechGen.db`, is required for running MechGen on your own computer (Windows, Unix, or Linux). It is not required for web users.
