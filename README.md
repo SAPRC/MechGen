@@ -67,13 +67,13 @@ To help you get started, refer to the following documents:
 
 ## Citation
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14907949.svg)](https://doi.org/10.5281/zenodo.14907948)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14907949.svg)](https://doi.org/10.5281/zenodo.14907949)
 
 If you use MechGen in your research, please consider citing the following publication:
 
 * Carter, W. P. L., Jiang, J., Orlando, J. J., and Barsanti, K. C.: Derivation of atmospheric reaction mechanisms for volatile organic compounds by the SAPRC mechanism generation system (MechGen), Atmos. Chem. Phys., 25, 199–242, https://doi.org/10.5194/acp-25-199-2025, 2025.
 
-* Carter, W. P. L., Jiang, J., Wang, Z. Z., and Barsanti, K. C.: The SAPRC Atmospheric Chemical Mechanism Generation System (MechGen), to be submitted, 2025.
+* Carter, W. P. L., Jiang, J., Wang, Z. Z., and Barsanti, K. C.: The SAPRC Atmospheric Chemical Mechanism Generation System (MechGen), Geoscientific Model Development, 18(21), 8461-8483, https://doi.org/10.5194/gmd-18-8461-2025, 2025.
 
 * Carter, W. P. L., Jiang, J., Wang, Z. Z.: MechGenv1.0 GitHub, https://doi.org/10.5281/zenodo.14907948, 2025.
 
@@ -85,4 +85,8 @@ For publication information, please visit the [Publications](https://github.com/
 
 ## Contact Information
 
-*For inquiries and further information, please contact the primary author, William P. L. Carter, at carter@cert.ucr.edu*
+*For inquiries and further information, please contact the authors:*
+* William P. L. Carter, carter@cert.ucr.edu
+* Jia Jiang, jiajiang@mit.edu
+* Zhizhao Wang, zhizhao.wang@ucr.edu
+* Kelley Barsanti, barsanti@ucar.edu
