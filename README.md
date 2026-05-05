@@ -78,6 +78,13 @@ If you use MechGen in your research, please consider citing the following public
 * Carter, W. P. L., Jiang, J., Wang, Z. Z.: MechGenv1.0 GitHub, https://doi.org/10.5281/zenodo.14907948, 2025.
 
 
+## Acknowledgement
+
+EPA Agreement Number: 84000701
+
+Title: Scalable Chemical Mechanisms of Emerging Sources for Community Air Quality Predictions  
+
+
 ## Publications
 
 For publication information, please visit the [Publications](https://github.com/SAPRC/MechGen/wiki/Publications) page.
