@@ -2,9 +2,15 @@
 
 The **SAPRC mechanism generation system** (**MechGen**) is a tool designed to derive explicit mechanisms for the gas-phase reactions of many types of emitted organic compounds and their oxidation products when they react in the atmosphere in the presence of oxides of nitrogen and other pollutants. It then uses the results to derive lumped mechanisms suitable for use in atmospheric models.
 
+The latest release, [Version 2.2](https://github.com/SAPRC/MechGen/releases/tag/v2.2), is now available and includes software improvements, feature enhancements, and error corrections.
+
+The paper documenting the MechGen system has been published:
+
+Carter, W. P. L., Jiang, J., Wang, Z., and Barsanti, K. C.: The SAPRC Atmospheric Chemical Mechanism Generation System (MechGen), Geosci. Model Dev., 18, 8461-8483, 2025, [https://doi.org/10.5194/gmd-18-8461-2025](https://doi.org/10.5194/gmd-18-8461-2025).
+
 ## Learn More
 
-- **About MechGen**: [Visit the MechGen website](https://mechgen.cert.ucr.edu/) for more details about what MechGen can do.
+- **About MechGen**: [Visit the MechGen website](https://mechgen.cert.ucr.edu/) for more details about what MechGen can do and for latest updates.
 
 - **SAPRC Mechanisms**: MechGen was used to derive the latest SAPRC-22 chemical mechanism. Learn more about SAPRC mechanisms [here](https://intra.engr.ucr.edu/~carter/SAPRC/).
 
